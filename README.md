@@ -22,16 +22,18 @@ A real-time chat application built using React for the client, Socket.IO for Web
 
 - Real-time chat functionality.
 - User authentication using Strapi.
-- Message storage and retrieval for specific authenticated users.
 - Responsive design with React.
 - WebSocket communication for instant messaging using Socket.IO.
+- Message storage and retrieval for specific authenticated users.
 
-## Implemented faetures
+## Implemented faetures (with 3 days deadline)
 
 - Responsive design with React.
 - WebSocket communication for instant messaging using Socket.IO.
 - Real-time chat functionality.
 - User authentication using Strapi.
+- Message storage on strapi
+-Not implemented :-  retrieval message for specific authenticated users.
 
 ## Tech Stack
 
