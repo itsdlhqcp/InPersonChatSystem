@@ -2,6 +2,8 @@
 
 A real-time chat application built using React for the client, Socket.IO for WebSocket communication, and Strapi as the backend content management system (CMS).
 
+[LIVE -DEMO VEDEO](https://drive.google.com/drive/folders/1DHNIKvWcqf1uAemkOx4ol16tWoqbLK5W?usp=drive_link)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -37,4 +39,4 @@ A real-time chat application built using React for the client, Socket.IO for Web
 - **Backend**: Strapi CMS, Socket.IO
 - **Database**: SQLite (default with Strapi, can be configured for MongoDB, MySQL, etc.)
 
-- [Node.js](https://nodejs.org/) (v14.x or higher)
+
